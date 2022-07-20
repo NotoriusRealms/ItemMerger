@@ -1,0 +1,12 @@
+already_exists: '&cA recipe with this name already exists.'
+recipe_created: '&aYou created the recipe %recipe_name%.'
+
+no_item_in_hand: '&cYou have no item in hand.'
+first_item: '&aYou set the 1st item for the recipe %recipe_name%.'
+second_item: '&aYou set the 2nd item for the recipe %recipe_name%.'
+result_item: '&aYou set the result item for the recipe %recipe_name%.'
+
+configuration_reload: '&eAll configurations have been reloaded.'
+
+syntax_error: '&cSyntax error.'
+no_permissions: '&cYou dont have permission to execute this command.'

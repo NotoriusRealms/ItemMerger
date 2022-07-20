@@ -1,0 +1,13 @@
+name: ItemMerger
+version: '${project.version}'
+main: it.giuseppeimpesi.itemmerger.ItemMerger
+authors: [ zFavourite ]
+description: Merge your items with this plugin!
+
+commands:
+  itemmerger:
+    aliases:
+      - im
+      - imerger
+    description: Main command
+
